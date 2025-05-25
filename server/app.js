@@ -18,3 +18,5 @@ app.use("/category", categoryController); //  Připojí routery: /transaction �
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 }); // Spustí server na zvoleném portu a vypíše info do konzole.
+
+// KOMENTAR KVULI TESTU GITU, PAK SMAZAT ! ! !
